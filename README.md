@@ -1,6 +1,6 @@
 # Projet *tpviz* : moteur de traitement de données  (apptp-data-engine)
 
-Dans ce dossier se trouve le programme : **apptp-data-engine**. Ce programme a servi a traiter et à produire les données qui ont servi dans le cadre du travail de mémoire **La couverture géographique des reportages de Temps Présent : apport des archives numériques et des visualisations de données à une histoire des magazines de grands reportages**. Ce projet porte le nom de code tpviz.
+Dans ce dossier se trouve le programme : **apptp-data-engine**. Ce programme a servi à traiter et à produire les données qui ont servi dans le cadre du travail de mémoire **La couverture géographique des reportages de Temps Présent : apport des archives numériques et des visualisations de données à une histoire des magazines de grands reportages**. Ce projet porte le nom de code tpviz.
 
 Le programme *apptp-data-engine* est un programme Python. Ce programme n'est pas une librairie. Il a été créé spécialement pour traiter le corpus orignial qui a été sélectionné dans le cadre du mémoire et pour laisser une trace des étapes de traitement des données que j'ai suivi dans ce projet. Le jeux de données résultants de ce travail de traitement automatisé se trouvent dans le dossier github : https://github.com/rerouj/apptp-db. 
 
