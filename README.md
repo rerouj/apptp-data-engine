@@ -10,7 +10,7 @@ A noter que ce programme pourrait évoluer vers une librairie. Il est structuré
 
 Pour des précisions sur l'orientation méthodologique prise dans le traitement des données, le lecteur peut se référer au chapitre 2 et 3 du mémoire.
 
-# commment ?
+# Commment ?
 
 Pour explorer le code, il suffit de télécharger le dossier de sauvegarde, de le déployer dans un dossier local et de le dossier avec Python. Pour des raisons de place, l'environnement virtuel avec lequel je travail n'a pas été déposé dans le dossier.
 
@@ -25,7 +25,7 @@ Pour faire tourner le programme l'environnement suivant doit être en place sur 
     d. pymongo
     e. googlemaps
 
-# qui ?
+# Qui ?
 
 L'ensemble du code apptp-data-engine a été produit par l'auteur du mémoire (Renato Diaz). N'hésitez pas à forker et n'oubliez pas d'ajouter une étoile ⭐️ ;)
 
