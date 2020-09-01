@@ -3,8 +3,8 @@ from ssr_rts_api import Client as Cl
 from db import db
 import time
 
-credentials = {"username": "EuVeni0O6q0nKiJXGdFFq0T3GtLEmvrA",
-               "password": "MpL1sm6DLLDtxsvh"}
+credentials = {"username": "Your credentials",
+               "password": "Your password"}
 querystring = {
     "query": "'id'='103'",
     "rows": 0,
